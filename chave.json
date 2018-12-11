@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pyladies-info-1544364856514",
+  "private_key_id": "9d84c386e963d83be1f76f9380ad2f513f92097a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDH/ql2oGifbyvY\nmKoBnQwIy/RqI8YDip1Miw7Gs00I9tZXZ10xsVtn1GOb+Zz8l67T6sYjTdF58SeW\nvX/xnE0i0mG5eSwccS9nvZraBHJ0Z4kzUmjyKSK0yRpzDTNT5yS5PZBLirTbOOOV\n9xMykGFV/Ht6R6Kyxuj7rRWrABbMj7f+I8DpBpxRQXAmCMVyjN8WivMuLAHb1Wtq\nl+z5wQ6/vL3uKIx+12W6ia8MKE9yOS5fW7RciMd+mWtzdypGjIIGwamDAu2mX6tH\nDE8F/vWSvKcPVQOdUf6LAs5T1DGZViI32L3ZLE1aGzFc3uKgpZAYAytvk0VpkRR5\nV3hfBj3/AgMBAAECggEACx+rKE8gEpdvM7hmDaSWX0TiKXx849netDuwd4p7LepL\nc11rQxDPed/H0eHugo7N6WPlCmCmgTxRtzd/ZB5inJ22qXIdFdCRJ5mAVpZUZrdo\nMQO+lOgx0dFfrbzduSchlUYLKRB5d7oFz+OysdIdqoKFEauQrUCVWS5AMXHV/Xb7\nF5hGAmRhWp6b6vv19hWotA65Ri5bHYQZ3W8zYrPsEkC7li/yNdpE7tgT7X42I75U\nyVmPCTRnobOr76usutBhfGQj4EPMvnQVVD8xLoCLFDDoKhpGNJHspYIAQpOMSXgY\nGaWdH1TJtlC0u+gsdhXXfcUdMuTnC52GXFFqtbLkuQKBgQDnk2LCdphiUa9udTds\nLj8YQqT6PolQNDhHJbxGW/owVl23wD7fQ52dg1vGqMQdE+7ap4kGC80Swgsk8PsD\nqTb/pjt2CCWg7T+JJd+R4SElXCqf6yVHZBmExu18TVKL3V1E6Py4XQf8CxnDgi0B\nsLHvrQAgSQrb8/3iM9Eo8PD0yQKBgQDdFpS64sVsV24+xcQ7MYhCDe/UAHVK+c2G\n25EjRQUGyBQQnTab7w0PhrDMIJ3GqX87Q+tT9StQHObWYwyb9T4UBtHp5bT/r70Q\n126Jo9yRIVOsf0dwjMkBZYIcezf/WLXcNtlkbZNQJH+v/cT9j64g8Ve+PIT5lOeC\nWEStq6fohwKBgQC7Ejb/vOpQ0ogThSFmhN13ba70cLxgTC8CWpuDgx3TGpHOtMCV\nf3u+GLV1ADSdANM9U4W/mpzpgFOcXgeI55OEZfc23FH5dG6VDkFTCTjLg27zjPOq\nflSXDFQgzB3Y2tRTrJsrHAwtMZJ4e5p7+Q9k/K5TZm4dTTdVGmLm3ezo8QKBgQDB\njOk8CxdG1+vd7Ij0QVLGcSkKcjQ9JR/29fXD6MKTw0k9mkSaktbeRs40hkFaED0g\nhz9XywTWJ9c2zJPXXQWxxp6yo7SnOxTLz64ntVp9e62jD/Jc6AN4w4L6qCzH0MO1\nPBdpQjx7JtjaG9H/IXARyvdDxfur+94JUHkfiW1/tQKBgD6JOMN+NfTlhj5r6VKh\nQ80XGmQJEPth5zYgRwzm/TPyc9iK1aTKb2+ZzQWNqDooODorvExHa/KD84otYQJQ\n3/cHLwdyS7pG+0cavvaOZuPUk1H7TPf9eIk8mi39XRngyDvmWyeTSjiTsZQnJH6Z\niyH9czxaI9VcKtn2OVsz8oOf\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-pgbdlba0gra3@pyladies-info-1544364856514.iam.gserviceaccount.com",
+  "client_id": "104881194753111844088",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-pgbdlba0gra3%40pyladies-info-1544364856514.iam.gserviceaccount.com"
+}
+
